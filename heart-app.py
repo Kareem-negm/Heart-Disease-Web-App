@@ -14,7 +14,7 @@ st.write("""
 
 
 #Get the data
-df = pd.read_csv("C:/Users/negmk/Desktop/streamlit/Heart Disease/heart.csv")
+df = pd.read_csv("https://github.com/Kareem-negm/Heart-Disease-Web-App/blob/main/heart.csv")
 st.image("https://img.cruisecritic.net/img-cc/image/15996/image_x_21.jpg?auto=format&fit=crop&crop=focalpoint&ar=2%3A1&ixlib=react-9.0.2&w=900&dpr=1")
 
 st.subheader('Data Information:')
