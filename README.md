@@ -7,3 +7,6 @@ The web app was built in Python using the following libraries:
 * pandas
 * numpy
 * scikit-learn
+
+![alt text](https://github.com/Kareem-negm/Heart-Disease-Web-App/blob/main/SharedScreenshot.jpg)
+![alt text](https://github.com/Kareem-negm/Heart-Disease-Web-App/blob/main/gh.jpg)
